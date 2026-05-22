@@ -1,6 +1,6 @@
-module github.com/rgzr/sshtun
+module github.com/f100024/sshtun
 
-go 1.25.0
+go 1.26.3
 
 require (
 	github.com/avast/retry-go v3.0.0+incompatible
@@ -8,7 +8,7 @@ require (
 	github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/crypto v0.52.0
-	golang.org/x/sync v0.18.0
+	golang.org/x/sync v0.20.0
 )
 
 require (
